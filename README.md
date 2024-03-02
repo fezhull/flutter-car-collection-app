@@ -1,16 +1,13 @@
-# flutter_application_1
+Flutter  Null Safety
 
-A new Flutter project.
 
-## Getting Started
+Beautiful Car Collection App UI with support for dark mode. Created by Me . 
+
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/fezhull/Car-Collection-Flutter-UI/assets/36967859/241d9068-5769-451b-8b04-cf614590b0af)
+
